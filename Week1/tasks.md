@@ -8,9 +8,9 @@
   > 难度选择入门，尽量从小题号开始做，第一周任务量5道题，多多益善。
 ## 3. 将写好代码通过Github页面的内置功能进行上传，
   
-![alt text][logo]
+![alt text][pic]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[pic]: https://github.com/RoboticsLab-Ulan/LabHeroCodingPath/blob/master/Week1/upload.PNG "pic 1"
 
 ### 上传时注意文件夹要有层次
   > eg:实验室项目/Week1/代码练习/BC1.c
